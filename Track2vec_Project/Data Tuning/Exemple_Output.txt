@@ -1,5 +1,0 @@
-window_width= 2 || NDGCatK=0.07501311164919619 || HitatK=0.129 || accuracy=0.9520446062088013 || loss=0.1355493664741516 || computational time=1105.3545830249786 seconds  
-window_width= 3 || NDGCatK=0.078309689071286 || HitatK=0.1382 || accuracy=0.9513004422187805 || loss=0.1372477412223816 || computational time=1152.6612045764923 seconds  
-window_width= 5 || NDGCatK=0.0732522888200125607 || HitatK=0.1293 || accuracy=0.9481524312896729 || loss=0.14609664363861084 || computational time=1284.5156314373016 seconds  
-window_width= 7 || NDGCatK=0.07204380036443751 || HitatK=0.1324 || accuracy=0.9424129724502563 || loss=0.15809687972068787 || computational time=1403.430332660675 seconds  
-window_width= 10 || NDGCatK=0.06850982211228854 || HitatK=0.1278 || accuracy=0.9419629573822021 || loss=0.15800414979457855 || computational time=1502.3493566513062 seconds  
