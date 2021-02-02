@@ -11,5 +11,5 @@ Steps taken:
 
 Inside the "src" folder, you can find a well commented notebook detailing our work and the different step taken. ("src/track2vec-en.ipynb")
 
-Technologies: Python, Sklearn, Tensorflow, Keras, ..
+Technologies: Python, Sklearn, Tensorflow, Keras, ...
 
