@@ -1,7 +1,7 @@
 # Track2vec-Project
 
 In this project we developped a word2vec network in order to build a playlist completion tool (song suggestion).
-The dataset we worked on contains 100000 playlists which are composed of an average of 24.1 songs. 
+The Deezer dataset we worked on contains 100 000 playlists which are composed of an average of 24.1 songs. 
 
 Steps taken: 
 - Data analysis and preparation.
