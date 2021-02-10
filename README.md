@@ -1,6 +1,6 @@
 # Track2vec-Project
 
-In this mini project we develop a word2vec network and use it to build a playlist completion tool (song suggestion).
+In this project we developped a word2vec network in order to build a playlist completion tool (song suggestion).
 The dataset we worked on contains 100000 playlists which are composed of an average of 24.1 songs. 
 
 Steps taken: 
